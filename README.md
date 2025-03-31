@@ -50,4 +50,11 @@ Conclusion
 
 This project provides a data-driven approach to understanding bank loan performance and profitability. The combination of SQL and Power BI enables efficient financial analysis and decision-making.
 
+### It Includes:
+1- Bank Loan Data - csv File
+2- Terminologies used in the Data - Word File
+3- EDA - SQL File 
+4- PowerBI Dashboard - pbix
+
+
 
